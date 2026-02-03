@@ -1,2 +1,2 @@
 # SuperDisplay
-SuperDisplay is a Windows utility designed to simplify everyday workflows. It brings together tools for file storage, fast sharing, notes, and productivity features in one place. New capabilities are added regularly, with updates rolling out weekly or even daily.
+SuperDisplay is a Windows utility designed to simplify everyday workflows. It brings together free file sharing, file storage, notes storage, and productivity features in one place, all currently built for Windows while the team works hard to bring Linux support. More capabilities are added regularly, with new features shipping weekly or even daily.
